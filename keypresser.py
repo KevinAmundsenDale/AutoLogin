@@ -77,7 +77,7 @@ browser.close()
 
 
 
-
+#### Previous attempt using mouse positioning to click and write on website, not good enough
 
 # allergi=False
 
